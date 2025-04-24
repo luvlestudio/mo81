@@ -48,7 +48,7 @@ window.onload = () => {
       content: {
         title: "상민 ♥ 국화의 모바일 청첩장",
         description: "2025년 6월 14일 토요일♡",
-        imageUrl: "https://i.imgur.com/C1dVECM.png",
+        imageUrl: "https://i.imgur.com/Dz55NkB.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
